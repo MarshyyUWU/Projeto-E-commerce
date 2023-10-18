@@ -1,4 +1,2 @@
-# E-COMMERCE
-## teste
-### O que é?
-#### O que é?
+# 🪙 E-COMMERCE 🪙
+#### E o que seria?

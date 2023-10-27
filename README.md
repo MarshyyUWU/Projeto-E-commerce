@@ -3,7 +3,11 @@
 - Conforme o artigo [O que é e-commerce?](https://exame.com/invest/guia/o-que-e-e-commerce-red04/) que me foi recomendado para estudo do assunto, ou conhecido como comércio "online" ou eletronico, é um site de produtos com a compra e venda de produtos sendo inteiramente através da internet. Com todas as partes do processo de aquisição de mercadoria sendo "online", como seleção do produto, escolha de endereço para entregar, formar de pagamento e em si a compra.
 
 ### 🛎️Indíce 🛎️
-.
+[Meu site Ecommerce](https://github.com/MarshyyUWU/Projeto-E-commerce#-meu-site-de-cadastro-e-commerce-)  
+[Téc Utilizadas](https://github.com/MarshyyUWU/Projeto-E-commerce#%EF%B8%8F-tecnologias-utilizadas-%EF%B8%8F)  
+[Funções](https://github.com/MarshyyUWU/Projeto-E-commerce#%EF%B8%8F-fun%C3%A7%C3%B5es-%EF%B8%8F)  
+[Ultima atualização](https://github.com/MarshyyUWU/Projeto-E-commerce#-ultima-altera%C3%A7%C3%A3o-foi-)  
+[Créditos](https://github.com/MarshyyUWU/Projeto-E-commerce#cr%C3%A9ditos)  
 
 # 💻 Meu Site de cadastro E-COMMERCE 💻
 #### Baseado em alguns sites em comum, como shopee, aliexpress, mercado livre e etc... com informações que se costumam pedir.
@@ -48,6 +52,7 @@ Dia Vinte e Sete de Outubro de Dois mil e Vinte e Três
 
 # ❗Créditos❗
 * [Marsh](https://github.com/MarshyyUWU)
+* [Vitor](https://github.com/vitorgabrieldev)
  
 
 # 🚨Caso qualquer erro tenha sito avistado!🚨

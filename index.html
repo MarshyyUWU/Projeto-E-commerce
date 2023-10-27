@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Cadastro</title>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <form action="" id="form">
+        <h1>Crie sua conta gratuitamente</h1>
+        <hr><br>
+        <input type="email" placeholder="Digite seu Email" id="email">
+
+        <input type="text" placeholder="Nome Completo" id="nome">
+        
+        <input type="text" placeholder="Digite seu Telefone" id="telefone"> <br><br>    
+        
+        <input type="date" id="datanasc">
+        
+        <br><br><hr><br>
+        
+        <input type="number" placeholder="CEP" id="cep">
+        
+        <input type="text" placeholder="Cidade " id="cidade" disabled>  
+        
+        <input type="text" placeholder="Estado" id="estado" disabled>
+        
+        <input type="text" placeholder="Logradouro" id="rua" disabled><br><br>
+        
+        <input type="number" placeholder="Número" id="numero"><br><br><hr><br>
+        
+        <input type="password" placeholder="Digite sua senha" id="senha">
+        
+        <input type="password" placeholder="Repita sua senha" id="repetir_senha"><br><br>
+        
+        <hr><br>
+        
+        <button type="button" onclick="verificar()">Cadastrar</button>
+    </form> 
+    
+    <script src="script.js"></script>
+</body>
+</html>

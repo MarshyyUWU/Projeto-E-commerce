@@ -1,0 +1,49 @@
+
+body{
+    padding: 1rem;
+    margin: 0px;
+    background-color: #282829;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+
+
+
+#form{
+    text-align: center;
+    background: #eeeeee57;
+    padding: 20px;
+    border-radius: 5px;
+}
+hr{
+    border: .1px solid #fff;
+}
+h1{
+    color: #fff;
+    letter-spacing: 2px;
+    font-weight: 100;
+    font-size: 4rem;
+}
+input{
+    border: 1px solid #000;
+    outline: none;
+    font-size: 17px;
+    padding: 5px 20px;
+    outline: none;
+}
+button{
+    font-family: monospace;
+    border-radius: 12px;
+    color: #fff;
+    background: #888;
+    border: 1px solid #fff;
+    font-size: 30px;
+    transition: .33s;
+    cursor: pointer;
+}
+button:hover {
+    transform: scale(0.95);
+}
